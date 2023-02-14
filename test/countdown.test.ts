@@ -15,3 +15,5 @@ test('can create with hours, minutes and seconds', () => {
   expect(countdown.minutes).toBe(20);
   expect(countdown.seconds).toBe(20);
 })
+
+test('')
